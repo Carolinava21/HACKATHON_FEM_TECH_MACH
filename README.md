@@ -1,2 +1,2 @@
 # HACKATHON_FEM_TECH_MACH
-Hackathon BCI 
+Hackathon BCI 2024
